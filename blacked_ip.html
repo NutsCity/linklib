@@ -1,7 +1,14 @@
 <h1>无效的访问</h1>
 <title>NutsCity</title>
 
+<script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
+<script src="https://nutscity.tk/blacked_ip.js"></script>
+
 <script>
+  ip = returnCitySN.cip;
+  if !(is_blacked(ip)) {
+    window.open("https://nutscity.tk", "_self"); // 不在黑名单中
+  }
   function redirect() {
     password = document.getElementById("password").value;
     if (password == "QWEr!2#4") {
