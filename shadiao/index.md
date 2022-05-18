@@ -1,0 +1,6 @@
+# 沙雕信息课-编辑与美化工作表学生练习
+
+> 破解老师的控制?[点我查看](https://github.com/chenmy1903/student3)
+
+1. [原表](https://link.nutscity.tk/shadiao/bjymhgzbxxlx.xlsx)
+2. [完成后](https://link.nutscity.tk/shadiao/bjymhgzbxxlx-done.xlsx)
