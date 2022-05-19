@@ -6,13 +6,27 @@
 
 <script>
   ip = returnCitySN.cip;
+  fromurl = document.referrer;
   if (!is_blacked(ip)) {
-    window.open("https://nutscity.tk", "_self"); // 不在黑名单中
+    if (fromurl == "https://chenmy1903.tk/") {
+      window.open("https://chenmy1903.tk/", "_self");
+    } else if (fromurl == "https://nutscity.tk/") {
+      window.open("https://nutscity.tk", "_self"); // 不在黑名单中
+    } else {
+      history.go(-1); // 不是从官网来的,直接寄回
+    }
   }
   function redirect() {
     password = document.getElementById("password").value;
     if (password == "QWEr!2#4") {
-      window.open("https://nutscity.tk", "_self")
+      if (fromurl == "https://nutscity.tk/") {
+        window.open("https://nutscity.tk", "_self");
+      } else if (fromurl == "https://chenmy1903.tk/") {
+        window.open("https://chenmy1903.tk/", "_self")
+      } else {
+        alert("重定向时出现错误,请不要单独访问此网页,请从NC服务器官网访问");
+      }
+      
     } else {
       alert("密码错误");
     }
