@@ -10,3 +10,4 @@
 ## 六年级趣味运动会-学生练习用
 
 1. [原表](https://link.nutscity.tk/shadiao/lnjqwydhxslxy.xlsx)
+2. [完成后](https://link.nutscity.tk/shadiao/lnjqwydhxslxy-done.xlsx)
