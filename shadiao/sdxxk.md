@@ -11,3 +11,4 @@
 
 1. [原表](https://link.nutscity.tk/shadiao/lnjqwydhxslxy.xlsx)
 2. [完成后](https://link.nutscity.tk/shadiao/lnjqwydhxslxy-done.xlsx)
+3. [完成-标准版1](https://link.nutscity.tk/shadiao/lnjqwydhxslxy-xxk-done.xlsx)
