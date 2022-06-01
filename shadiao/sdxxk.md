@@ -4,8 +4,8 @@
 
 ## 编辑与美化工作表学生练习
 
-1. [原表](https://link.nutscity.tk/shadiao/bjymhgzbxxlx.xlsx)
-2. [完成后](https://link.nutscity.tk/shadiao/bjymhgzbxxlx-done.xlsx)
+1. [原表](https://link.nutscity.tk/shadiao/bjymhgzbxslx.xlsx)
+2. [完成后](https://link.nutscity.tk/shadiao/bjymhgzbxslx-done.xlsx)
 
 ## 六年级趣味运动会-学生练习用
 
